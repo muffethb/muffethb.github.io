@@ -1,9 +1,9 @@
 # Site settings
 title: NokuX's OC World
-SEOTitle: 欢迎来到NokuX的oc世界！
+SEOTitle: NokuX|诺库克斯
 header-img: img/title.jpg
 email: 859601060@qq.com
-description: "NokuX爱你们每个人！w"
+description: "欢迎来到NokuX的oc世界！"
 keyword: "nokux"
 url: "https://nokux.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
