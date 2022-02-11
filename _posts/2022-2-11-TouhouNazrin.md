@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      东方Project
-subtitle:   娜兹玲
+title:      娜兹玲
+subtitle:   东方Project
 date:       2022-2-11
 author:     NokuX
 header-img: img/touhoutitlenazrin.jpg
