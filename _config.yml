@@ -1,9 +1,9 @@
 # Site settings
-title: Main
+title: Nokux's World
 SEOTitle: NokuX|诺库克斯
-header-img: img/title41.jpg
+header-img: img/title-2.jpg
 email: 859601060@qq.com
-description: "Nokux倒闭了，感谢您一直以来的支持。"
+description: "欢迎来到Nokux的世界！"
 keyword: "nokux"
 url: "https://nokux.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
