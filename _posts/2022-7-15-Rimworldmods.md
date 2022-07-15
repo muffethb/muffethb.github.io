@@ -2,7 +2,7 @@
 layout:     post
 title:      Rimworld-Nokux的环世界mods合集（持续更新）
 subtitle:   环世界mods
-date:       2022-07-15
+date:       2022-7-15
 author:     NokuX
 header-img: img/title-2.jpg
 catalog:   true
