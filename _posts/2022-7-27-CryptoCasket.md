@@ -53,7 +53,7 @@ Kisaki
 
 制作引擎：RPG MAKER VX ACE
 
-下载地址：https://pan.baidu.com/s/1ASwP_eHZmQ2syLu5g4xfmA 
+下载地址：https://pan.baidu.com/s/1ASwP_eHZmQ2syLu5g4xfmA?pwd=anci 
 
 本游戏的背景建立于Rimworld的原版拓展-古代人拓展之上。
 
