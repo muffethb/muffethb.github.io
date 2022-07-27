@@ -37,6 +37,8 @@ Z/Enter/Space-确定
 
 Check your folder！
 
+![游戏内容]({{site.baseurl}}/img-post/cryptocasketgame.png)
+
 # 登场角色
 
 Kisaki
