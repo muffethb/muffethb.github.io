@@ -2,7 +2,7 @@
 layout:     post
 title:      Mroyae Yoilin
 subtitle:   莫野 尤铃
-date:       2022-2-13
+date:       2022-8-1
 author:     NokuX
 header-img: img/titlemroyaeyoilin.jpg
 catalog:   true
