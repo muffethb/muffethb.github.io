@@ -15,4 +15,4 @@ tags:
 
 ## 实体例图
 
-![纸偶购买相关]({{site.baseurl}}/img-post/IMG_7655.JPG)
+![例图]({{site.baseurl}}/img-post/IMG_7655.JPG)
