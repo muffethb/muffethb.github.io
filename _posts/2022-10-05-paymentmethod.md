@@ -11,7 +11,7 @@ tags:
 ---
 # 我的支付方式与官方账号
 
-![支付方式]({{site.baseurl}}/img-post/halax.jpg)
+![支付方式]({{site.baseurl}}/img-post/支付方式.png)
 
 您的支持会换得我更勤快的更新！
 
