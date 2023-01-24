@@ -7,7 +7,7 @@ author:     NokuX
 header-img: img/titlerunapava.jpg
 catalog:   true
 tags:
-    - Catbox
+    - Another
 ---
 # Runapava
 
