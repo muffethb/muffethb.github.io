@@ -2,7 +2,7 @@
 layout:     post
 title:      Merriphysics
 subtitle:   Gsr的猫箱世界-雾隶子篇
-date:       2023-01-22
+date:       2023-03-04
 author:     NokuX
 header-img: img/catboxworld2.jpg
 catalog:   true
