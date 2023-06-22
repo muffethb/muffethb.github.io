@@ -79,3 +79,5 @@ tags:
 
 
 雾隶子只知道，每个人都希望雾隶子消失。
+
+![雾黎子立绘]({{site.baseurl}}/img-post/p-murriphysics.png)
